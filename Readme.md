@@ -1,4 +1,3 @@
-<br>
 <p align="center">
   <img src="docs/img/logo.png" alt="Udemy Bot Logo" width="250" height="250">
 </p>
