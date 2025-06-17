@@ -16,7 +16,7 @@ A Telegram bot that automatically enrolls users in free and discounted Udemy cou
 - 💰 Tracks amount saved and enrollment statistics
 - ⚡ Fast and efficient parallel course processing
 - 🔒 Rate limiting and user management
-- 
+
 ## Usage
 
 1. Start the bot in Telegram: `/start`
