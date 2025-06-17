@@ -46,4 +46,4 @@ This bot is for educational purposes only. Use it responsibly and in accordance 
 
 # Try It Out Yourself 
 
-[![Telegram Bot Link](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/CourseGrabber_Bot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/CourseGrabber_Bot)
